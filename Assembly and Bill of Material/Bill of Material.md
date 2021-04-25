@@ -1,4 +1,4 @@
-# Bill of Material
+# Bill of Material (CAD$)
 | Item | Quantity | Unit |Cost per unit| Cost|Notes
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | 
 |3D printing Filament for PLA|	1|	per kg|	32.00|	32.00	|All the 3D components are included here.|
